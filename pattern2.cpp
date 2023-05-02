@@ -1,7 +1,10 @@
-// *
-// **
-// ***
-// ****
+/*  Required Output 
+    *
+    **
+    ***
+    ****    */
+
+/*  Answer  */
 #include<iostream>
 using namespace std;
 int main(){
