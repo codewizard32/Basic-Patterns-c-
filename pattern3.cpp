@@ -1,6 +1,10 @@
-//   A
-//  BC
-// DEF
+/*  Required Output
+       A
+      BC
+     DEF
+    GHIJ  */
+
+/*  Answer  */
 #include<iostream>
 using namespace std;
 int main(){
