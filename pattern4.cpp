@@ -1,3 +1,10 @@
+/*  ****
+    ****
+    ****      */
+
+/*Answer*/
+
+
 #include <iostream>
 using namespace std;
 
